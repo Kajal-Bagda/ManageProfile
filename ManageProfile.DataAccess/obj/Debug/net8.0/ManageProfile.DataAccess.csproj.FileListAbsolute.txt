@@ -1,0 +1,90 @@
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManagePr.A11EBE38.Up2Date
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\UserProfile\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManagePr.A11EBE38.Up2Date
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\26-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManagePr.A11EBE38.Up2Date
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office\27-02-2024\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManagePr.A11EBE38.Up2Date
+D:\Office Duplicate\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
+D:\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CopyComplete
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.deps.json
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.dll
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\bin\Debug\net8.0\ManageProfile.Models.pdb
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.AssemblyReference.cache
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.AssemblyInfo.cs
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CoreCompileInputs.cache
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.csproj.CopyComplete
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.dll
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\refint\ManageProfile.DataAccess.dll
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ManageProfile.DataAccess.pdb
+D:\Asp.Net\ManageProfile\ManageProfile.DataAccess\obj\Debug\net8.0\ref\ManageProfile.DataAccess.dll
